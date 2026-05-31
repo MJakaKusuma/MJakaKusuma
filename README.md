@@ -46,5 +46,5 @@ Below are my dynamic GitHub statistics, automatically updated based on my reposi
 ---
 
 <p align="center">
-  <i>"The best way to predict the future is to invent it." — Alan Kay</i>
+  <i>"No one knows what the future holds. That's why its potential is infinite." — Okabe Rintarou</i>
 </p>

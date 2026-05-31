@@ -39,8 +39,11 @@ An end-to-end, production-ready web application designed to distinguish between 
 Below are my dynamic GitHub statistics, automatically updated based on my repository activities:
 
 <p align="center">
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api?username=MJakaKusuma&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=475569" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.anuraghazra.vercel.app/api/top-langs?username=MJakaKusuma&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=475569" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MJakaKusuma&theme=flat&column=5" alt="GitHub Trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MJakaKusuma&theme=transparent&hide_border=true" alt="GitHub Streak" width="80%" />
 </p>
 
 ---

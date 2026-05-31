@@ -39,7 +39,7 @@ An end-to-end, production-ready web application designed to distinguish between 
 Below are my dynamic GitHub statistics, automatically updated based on my repository activities:
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MJakaKusuma&theme=flat&column=5" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJakaKusuma&theme=react&hide_border=true" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 <p align="center">

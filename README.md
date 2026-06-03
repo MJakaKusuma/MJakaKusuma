@@ -28,7 +28,7 @@ A passionate Full-Stack Developer and Machine Learning enthusiast from Indonesia
 
 ### [DetectAI — Hybrid AI Text Classifier](https://github.com/MJakaKusuma/SKRIPSI-KLASIFIKASI_AI)
 An end-to-end, production-ready web application designed to distinguish between human-written texts and AI-generated texts in Bahasa Indonesia.
-*   **Methodology:** Hybrid approach combining **TF-IDF (1,000 features)** and **Stylometry (3 features)**.
+*   **Methodology:** Hybrid approach combining **TF-IDF (1,000 features)** and **Stylometry (7 features)**.
 *   **Classifier:** Logistic Regression (Accuracy: **97.66%**, F1-Score: **0.9784**).
 *   **Key Tech:** Next.js (Frontend), FastAPI (Backend), MySQL (Database).
 

@@ -34,20 +34,6 @@ An end-to-end, production-ready web application designed to distinguish between 
 
 ---
 
-## 📊 GitHub Metrics
-
-Below are my dynamic GitHub statistics, automatically updated based on my repository activities:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJakaKusuma&theme=react&hide_border=true" alt="GitHub Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MJakaKusuma&theme=transparent&hide_border=true" alt="GitHub Streak" width="80%" />
-</p>
-
----
-
 <p align="center">
   <i>"No one knows what the future holds. That's why its potential is infinite." — Okabe Rintarou</i>
 </p>
